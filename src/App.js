@@ -7,7 +7,7 @@ const App = () => {
     <div>
       <MenuBar />
       <Counter />
-      <div style={{color:"blue",textAlign:"center"}}>@deepakgupta</div>
+      <div style={{color:"white",textAlign:"center"}}>@deepakgupta</div>
     </div>
   );
 };
